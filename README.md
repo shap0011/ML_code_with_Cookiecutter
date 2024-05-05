@@ -1,7 +1,7 @@
-Text_Summarization_NLP
+Loan Approval Model
 ==============================
 
-Deploying a BART model with HuggingFace for text summarization
+Restructuring your ML code for production deployment
 
 Project Organization
 ------------
@@ -55,3 +55,13 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+
+
+Steps to Push code from VS code to Github.
+First authenticate your githib account and integrate with VS code. Click on the source control icon and complete the setup.
+1. Click terminal and open new terminal
+2. git config --global user.name "Swapnilin"
+3. git config --global user.email swapnilforcat@gmail.com
+4. git init
+5. git add .
+6. git commit -m "Your commit message"
